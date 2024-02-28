@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 Currently **| Learning MLOps, HPC and Quantum Computing | Exploring Blockchain Technology |**
 
 - 👨‍💻 My portfolio [https://nischalbaidar.com.np/](https://nischalbaidar.com.np/)
 
