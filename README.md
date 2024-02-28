@@ -9,7 +9,9 @@
 
 - 👨‍💻 My portfolio [https://nischalbaidar.com.np/](https://nischalbaidar.com.np/)
 
-- 💬 Ask me about **Procedural Programming, OOP, ALP, Frontend, Fitness**
+- 📲 Documenting my journey on Instagram of coding and learning with 2000+ people around the globe [@nischalcodesandlifts](https://www.instagram.com/nischalcodesandlifts/)
+
+- 💬 Ask me about **Procedural Programming, OOP, ALP, Python, Frontend, Fitness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
