@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Currently **| AI, HPC and Quantum Computing |**
+- 🌱 Currently Learning **| AI, HPC and Quantum Computing |**
 
 - 👨‍💻 My portfolio [https://nischalbaidar.com.np/](https://nischalbaidar.com.np/)
 
