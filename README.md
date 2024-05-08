@@ -5,13 +5,13 @@
 
 
 
-- 🌱 Currently **| Learning MLOps, HPC and Quantum Computing | Exploring Blockchain Technology |**
+- 🌱 Currently **| AI, HPC and Quantum Computing |**
 
 - 👨‍💻 My portfolio [https://nischalbaidar.com.np/](https://nischalbaidar.com.np/)
 
 - 📲 Documenting my journey on Instagram of coding and learning with 2000+ people around the globe [@nischalcodesandlifts](https://www.instagram.com/nischalcodesandlifts/)
 
-- 💬 Ask me about **Procedural Programming, OOP, ALP, Python, Frontend, Fitness**
+- 💬 Ask me about **Machine Learning, Quantum Computing, Django, Web Development, Python and Fitness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
